@@ -1,0 +1,24 @@
+h1{
+		color:pink;
+		font-weight:500px;
+		font-family:"Oswald";
+		font-size:24px;
+	}
+img {
+		border:1px solid blue;
+		}
+p{
+		color: black;
+		font-size: 14px;
+		font-family: "Cabin";
+	}
+h2{
+		color: black;
+		font-size: 16px;
+		font-family: "Oswald";
+	}
+.icono{
+	width:50px;
+	height:50px;
+	float:right;
+}
